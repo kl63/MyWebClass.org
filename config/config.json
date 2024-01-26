@@ -1,0 +1,61 @@
+{
+  "site": {
+    "title": "MyWebClass.org",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "https://njit-wis.github.io/project-2-future-ceos/images/logo.png",
+    "logo_white": "https://njit-wis.github.io/project-2-future-ceos/images/logo-light.png",
+    "logo_width": "150",
+    "logo_height": "39",
+    "logo_text": "MyWebClass"
+  },
+  "settings": {
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 6,
+    "InnerPaginationOptions": {
+      "enableTop": false,
+      "enableBottom": true
+    },
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+  "params": {
+    "tag_manager_id": "",
+    "footer_content": "Empower your students with cutting-edge software engineering skills. ",
+    "copyright": "MyWebClass, 2023"
+  },
+  "metadata": {
+    "meta_author": "Kevin | Lucicto | Rick",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Courageously motivate your students to revolutionize their software engineering skills with MyWebClass. Our cutting-edge platform empowers them to excel."
+  },
+  "widgets": {
+    "about": {
+      "enable": true,
+      "content": "Stay Connected, Follow Us Today!<br> Follow the source on social media platforms like Facebook, Twitter, Instagram, and LinkedIn. This way, you'll get notified whenever we post something new."
+    },
+    "featured_posts": {
+      "enable": false,
+      "title": "Blog Categories",
+      "showPost": 3
+    },
+    "categories": {
+      "enable": true,
+      "title": "Blog Categories"
+    },
+    "newsletter": {
+      "enable": true,
+      "title": "Newsletter",
+      "content": "Join thousands of MyWebClass subscribers and get our best recipes delivered each week!",
+      "privacy_policy_page": "/privacy",
+      "mailchimp_url": "https://github.us21.list-manage.com/subscribe/post?u=fff863b4a7a4c8de5749308a1&amp;id=765d94759f&amp;f_id=00a7b2e1f0"
+
+    }
+  },
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}

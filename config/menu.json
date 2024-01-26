@@ -1,0 +1,53 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Lean and Agile Principles",
+      "url": "/principles"
+    },
+    {
+      "name": "Resources",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Blogs",
+          "url": "/blogs"
+        },
+        {
+          "name": "Volunteer",
+          "url": "/volunteer"
+        }
+      ]
+    },
+    {
+      "name": "Services",
+      "url": "https://us21.list-manage.com/contact-form?u=fff863b4a7a4c8de5749308a1&form_id=b94d5926e21055ec1ed1d0016aa27b96"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Blogs",
+      "url": "/categories"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy"
+    }
+  ]
+}
